@@ -3,3 +3,4 @@ Git is a free software distributed under the GPL.
 Git has a mutable index called stage.
 Git diff and add test.
 Git tracks chages of files.
+my stupid boss prefers SVN.
